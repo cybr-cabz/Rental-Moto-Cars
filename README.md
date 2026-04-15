@@ -4,6 +4,8 @@ This platform use to rent a vehicle through online but still this platform need 
 It is just a test-project website for renting online using Streamlit to submit to the Subject CS Elective 3 
 Class Adviser: Sir Randy Bello  
 
+Before Using it make sure naka dark mode ka salamat
+
 Features:
 Item Specs: Detailed condition and engine reports for every vehicle.
 Item Image: The Picture of the vehicle
